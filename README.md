@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 🤝 I’m looking for help with **ML projects**
-
 - 📫 How to reach me **pratesmaacharya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
