@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pratishma Acharya</h1>
-<h3 align="center">A fullstack developer</h3>
+<h3 align="center">A software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratishma09" alt="pratishma09" /></a> </p>
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **web development, mobile development and deployment**
 
-- 🌱 I’m currently learning **about coding**
+- 🌱 I’m currently exploring more **about computer science**
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 👯 I’m looking to collaborate on **development projects**
 
 - 📫 How to reach me **pratesmaacharya@gmail.com**
 
